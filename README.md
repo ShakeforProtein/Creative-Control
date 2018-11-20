@@ -3,6 +3,7 @@
 Take Control of Creative mode.
 
 
+
 ## About
 Allows players with the required permissions to add blocks to, remove blocks from, or ignore, a banned block list. This was written because of an issue with Tridents being able to crash spigot servers that had not at the time of writing been dealt with.
 
