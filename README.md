@@ -22,9 +22,9 @@ Messages can be modified for each of the triggers
 
 ## Commands
 ```
-ccBlock EXAMPLE_ITEM1 ExAmPlE_IteM2 EXAMPLE_ITEM3 etc
-ccUnblock EXAMPLE_ITEM1 EXAMPLE_ITEM2 EXAMPLE_ITEM3
-ccShowBlocked 
+ccBlock EXAMPLE_ITEM1 ExAmPlE_IteM2 EXAMPLE_ITEM3 etc     - Adds all item arguments to your current worlds block list
+ccUnblock EXAMPLE_ITEM1 EXAMPLE_ITEM2 EXAMPLE_ITEM3       - Removes all item arguments from your current worlds block list
+ccShowBlocked                                             - Shows all items blocked on your current world
 ```
 
 
