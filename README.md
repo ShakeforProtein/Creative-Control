@@ -15,29 +15,29 @@ Also please note, items are blocked by their bukkit material name. As at writing
 There is an option in the config to notify console when a player attempts to do something naughty.
 
 Messages can be modified for each of the triggers
-.
-.
-.
-.
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 Commands
 ccBlock EXAMPLE_ITEM1 ExAmPlE_IteM2 EXAMPLE_ITEM3 etc
 ccUnblock EXAMPLE_ITEM1 EXAMPLE_ITEM2 EXAMPLE_ITEM3
-ccShowBlocked 
-.
-.
-.
-.
+ccShowBlocked
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 Permissions
 creativecancel.cancel   -   Players with this permission can add and remove items from the blocked item list.
 creativecancel.bypass   -   Players with this permission will not be effected by creative cancel.
 creativecancel.show     -   Players with this permission can see what items have been blocked.
-.
-.
-.
-.
-.
-.
-.
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 Default config (this will be installed automatically when the plugin is first loaded)
 
 BlockedItems:
